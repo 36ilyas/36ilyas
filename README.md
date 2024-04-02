@@ -1,5 +1,5 @@
 Hey there, I am Ilyas -
 
 currently studying Cyber Security Management,
-programming since 2 months,
-skills in Python and HTML
+been programming since end 2023,
+skills in Python, HTML, CSS, JavaScript, C
